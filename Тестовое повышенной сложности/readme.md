@@ -24,5 +24,4 @@
 
 ```SELECT COUNT(*) from launches```
 
-Модель данных:
-[](model.png)
+[Модель данных](model.png)
