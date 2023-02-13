@@ -1,7 +1,6 @@
 import requests
 import json
 import pandas as pd
-from time import time
 import sqlalchemy
 from sqlalchemy import create_engine
 
